@@ -3,7 +3,7 @@
 ---
 <h4 align="center">
   <p>    
-    Programador colombiano de 18 años. Me apasiona aprender y crecer en el mundo del desarrollo. Soy una persona alegre, divertida y colaboradora, siempre dispuesta a participar en nuevos proyectos y seguir mejorando cada día.
+    Programador colombiano de 18 años. Me apasiona aprender y crecer en el mundo del desarrollo. Soy una persona alegre, divertido y colaborador, siempre dispuesto a participar en nuevos proyectos y seguir mejorando cada día.
   </p>
   <h2 align="center">
     <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
